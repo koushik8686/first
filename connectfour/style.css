@@ -1,0 +1,54 @@
+.btn{
+    height: 100px;
+    width: 100px;
+    display: inline;
+   
+}
+.container{
+    position: relative;
+    width: 900px;
+   margin-top: 20px;
+   margin-left: 350px;
+}
+.butt{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: gray;
+    padding: 0px;
+}
+.butt:hover{
+    background-color: aquamarine;
+}
+.buttons{
+    position: relative;
+    width: 900px;
+   margin-top: 20px;
+   margin-left: 350px;
+   margin-bottom: 0px;
+ 
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    background-color: #ADC4CE;
+    color: darkgreen;
+    margin: 0px;
+}
+body{
+    margin: 0px;
+    background-color:#F1F0E8 ;
+}
+.font{ 
+    font-size: 80px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.head{
+    text-align: center;
+    font-size: 40px;
+}
